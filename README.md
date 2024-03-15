@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [ChatGPT Test Assistant Creation and Messaging App using VSCode](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [ChatGPT Personal Trainer Assistant Creation and Messaging App using VSCode](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>

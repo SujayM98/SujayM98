@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sujay! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Hi, I'm Sujay! <br/><a href="https://github.com/SujayM98/SujayM98/">Programmer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

@@ -5,6 +5,8 @@
 - <b>Python</b>
   - [ChatGPT Personal Trainer Assistant Creation and Messaging App using VSCode](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+  - [News Summarizer using StreamLit and ChatGPT API](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2> 🤳 Connect with me:</h2>
 
